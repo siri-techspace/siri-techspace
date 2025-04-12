@@ -12,10 +12,6 @@
 ### 🚀 Featured Projects
 
 Automated build and deployment pipeline using GitHub Actions and AWS EC2. 
-Integrated notifications with Slack and CloudWatch alarms.
-
-Deployed microservices using Helm on EKS with autoscaling, logging, 
-and monitoring via Prometheus and Grafana.
 
 Reusable Terraform modules for provisioning VPCs, 
 EC2 instances, and RDS on AWS
