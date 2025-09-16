@@ -49,8 +49,8 @@ Slack / Microsoft Teams – Team communication
 Jira / Trello – Project & task management
 ## 📫 Let's Connect
 
-- [LinkedIn]:https://www.linkedin.com/in/sirisha-pasupuleti-121656335/
-- - [Email](pasupuleti050885@gmail.com)
+[LinkedIn]:https://www.linkedin.com/in/sirisha-pasupuleti-121656335/
+[Email](pasupuleti050885@gmail.com)
 
 
 
