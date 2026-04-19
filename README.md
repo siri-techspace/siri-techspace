@@ -1,56 +1,54 @@
-# Hi, I'm Siri!  
+# Hi, I'm Siri 👋  
 
 ## 🚀 About Me
 
-- 💼 4 years of hands-on experience in **DevOps**, **Cloud Infrastructure**, and **CI/CD automation**
-- ☁️ AWS| RHCSA Certified
-- 🐧 Strong foundation in **Linux administration**, **shell scripting**, and **system automation**
-- 🛠️ Daily driver of **Terraform**, **Docker**, **Kubernetes**, **Ansible**, **Jenkins**, **GitHub Actions**, and more
-- 📈 Focused on **infrastructure as code**, **cloud-native development**, and **continuous improvement**
-**DevOps Engineer | 4 Years Experience | AWS Cloud Practitioner**
+DevOps enthusiast with a strong foundation in Linux system administration (RHCSA certified) and hands-on experience with AWS, Docker, and CI/CD pipelines.
 
-### 🚀 Featured Projects
+I transitioned into DevOps through continuous learning and practical projects, focusing on automating deployments and managing applications in cloud environments.
 
-Automated build and deployment pipeline using GitHub Actions and AWS EC2. 
+Previously worked as an Assistant Professor for over 9 years, bringing strong analytical thinking, problem-solving ability, and structured learning approach into my DevOps journey.
 
-Reusable Terraform modules for provisioning VPCs, 
-EC2 instances, and RDS on AWS
+---
 
-## 🎯 Experience
+## 🛠️ Tech Stack
 
-- 4+ years of experience in DevOps and cloud infrastructure
-- Currently working as an ** DevOps Engineer** using AWS
-- Experience with production-grade CI/CD pipelines and container orchestration
+- ☁️ AWS (EC2, S3, IAM, VPC)  
+- 🐳 Docker  
+- 🔧 CI/CD – Jenkins, GitHub Actions  
+- 🐧 Linux (RHCSA Certified)  
+- 🔄 Git & GitHub  
+- ⚙️ Kubernetes (basic)  
 
-## 🛠️ Tools I Use Daily
-1. Version Control & Collaboration
-Git – Source code version control
-2. CI/CD (Continuous Integration / Continuous Deployment)
-Jenkins – CI/CD automation
-3. Containers & Orchestration
-Docker – Containerization
-Kubernetes – Container orchestration
-Helm – Kubernetes package manager
-4. Infrastructure as Code (IaC)
-Terraform – Cloud infrastructure provisioning
-Ansible – Configuration management & automation
-5. Cloud Platforms
-AWS – Amazon Web Services
-6. Monitoring & Logging
-Prometheus – Monitoring metrics
-Grafana – Visualizing metric
-ELK Stack (Elasticsearch, Logstash, Kibana) – Logging & analytics
-7. Security & Compliance
-SonarQube – Code quality & security scanning
-Trivy / Clair – Container image scanning
-HashiCorp Vault – Secrets management
-8. Collaboration & Project Management
-Slack / Microsoft Teams – Team communication
-Jira / Trello – Project & task management
+---
+
+## 🚀 Featured Projects
+
+### 🔹 CI/CD Pipeline for Automated Deployment
+- Built CI/CD pipeline using Jenkins and Docker  
+- Automated deployment to AWS EC2  
+- Reduced manual deployment effort  
+
+### 🔹 Docker-Based Application Deployment
+- Containerized applications using Docker  
+- Deployed containers on AWS EC2  
+- Managed container lifecycle  
+
+### 🔹 AWS Infrastructure Setup (Basic)
+- Created EC2, IAM, and S3 resources  
+- Used Terraform for basic automation  
+- Focused on secure access and provisioning  
+
+---
+
+## 🎯 Current Focus
+
+- Improving CI/CD pipeline efficiency  
+- Strengthening cloud and containerization skills  
+- Exploring Kubernetes and automation tools  
+
+---
+
 ## 📫 Let's Connect
 
-[LinkedIn]:https://www.linkedin.com/in/sirisha-pasupuleti-121656335/
-[Email](pasupuleti050885@gmail.com)
-
-
-
+- 🔗 LinkedIn: https://www.linkedin.com/in/sirisha-pasupuleti-121656335  
+- 📧 Email: pasupuleti050885@gmail.com  
